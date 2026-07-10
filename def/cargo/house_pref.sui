@@ -1,0 +1,11 @@
+cargo_data: cargo.house_pref
+{
+	name: "@@cn_house_prefabs@@"
+	fragility: 0.5
+	group[]: construction
+	volume: 21.7
+	mass: 4082.33
+	unit_reward_per_km: 0.466
+	unit_load_time: 660
+	body_types[]: flatbed
+}

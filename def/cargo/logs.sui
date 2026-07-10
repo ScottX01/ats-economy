@@ -1,0 +1,11 @@
+cargo_data: cargo.logs
+{
+	name: "@@cn_logs@@"
+	fragility: 0.2
+	group[]: construction
+	volume: 2.6
+	mass: 744.29
+	unit_reward_per_km: 0.0643
+	unit_load_time: 120
+	body_types[]: log
+}

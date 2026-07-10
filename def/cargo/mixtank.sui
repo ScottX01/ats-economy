@@ -1,0 +1,12 @@
+cargo_data: cargo.mixtank
+{
+	name: "@@cn_mix_tank@@"
+	fragility: 0.3
+	group[]: construction
+	volume: 58
+	mass: 6985.32
+	unit_reward_per_km: 1.9677
+	unit_load_time: 1800
+	body_types[]: lowboy
+	body_types[]: dropdeck
+}

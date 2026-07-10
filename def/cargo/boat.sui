@@ -1,0 +1,13 @@
+cargo_data: cargo.boat
+{
+	name: "@@cn_boat@@"
+	fragility: 0.75
+	valuable: true
+	oversize: true
+	group[]: machinery
+	volume: 1
+	mass: 79.379
+	unit_reward_per_km: 2.0712
+	unit_load_time: 30
+	body_types[]: _lowboatboat
+}

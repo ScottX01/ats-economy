@@ -1,0 +1,11 @@
+cargo_data: cargo.scrap_cars
+{
+	name: "@@cn_scrap_cars@@"
+	fragility: 0.1
+	group[]: bulk
+	volume: 51.87
+	mass: 10341.9
+	unit_reward_per_km: 1.8641
+	unit_load_time: 1500
+	body_types[]: flatbed
+}

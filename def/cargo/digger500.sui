@@ -1,0 +1,13 @@
+cargo_data: cargo.digger500
+{
+	name: "@@cn_backhoe_loader@@"
+	fragility: 0.6
+	valuable: true
+	group[]: machinery
+	volume: 51.31
+	mass: 7484.27
+	unit_reward_per_km: 1.9677
+	unit_load_time: 1500
+	body_types[]: lowboy
+	body_types[]: dropdeck
+}

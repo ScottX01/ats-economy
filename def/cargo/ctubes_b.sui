@@ -1,0 +1,12 @@
+cargo_data: cargo.ctubes_b
+{
+	name: "@@cn_concrete_tubes@@"
+	fragility: 0.5
+	group[]: construction
+	volume: 11
+	mass: 2766.91
+	unit_reward_per_km: 0.2663
+	unit_load_time: 330
+	body_types[]: flatbed
+	body_types[]: dropdeck
+}

@@ -1,0 +1,12 @@
+cargo_data: cargo.lumber_b
+{
+	name: "@@cn_lumber@@"
+	fragility: 0.1
+	group[]: construction
+	volume: 47.5
+	mass: 10432.6
+	unit_reward_per_km: 0.9321
+	unit_load_time: 1800
+	body_types[]: flatbed
+	body_types[]: log
+}
